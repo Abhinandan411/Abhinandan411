@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhinandan</h1>
 <h3 align="center">learning MERN stack development and DSA</h3>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="bcg-gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandan411&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandan411" /> </p>
 
