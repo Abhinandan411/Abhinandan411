@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)
+
 <h1 align="center">Hi 👋, I'm Abhinandan</h1>
 <h3 align="center">learning MERN stack development and DSA</h3>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="bcg-gif">
